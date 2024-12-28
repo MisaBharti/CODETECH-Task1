@@ -1,7 +1,11 @@
 **Name :** MISA BAHRTI
+
 **Company :** CODTECH IT SOLUTIONS
+
 **Domain :** C++
+
 **Duration :** 17 December 2024 to 17 February 2025
+
 **Intern Id:** CT12DZL
 
 ## Overview of the project:
